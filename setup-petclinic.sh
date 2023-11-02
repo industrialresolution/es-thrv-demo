@@ -1,0 +1,1 @@
+kubectl --namespace=thrivent-petclinic port-forward deployment/petclinic-deployment 8080:8080
